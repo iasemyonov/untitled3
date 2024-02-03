@@ -85,6 +85,8 @@ void task4(){
     std::cout<<"test";
     std::cout << std::endl;
 }
+
+
 int main() {
     while (1>0){
         std::cout << std::endl;
